@@ -1,2 +1,2 @@
 # highlevelprog_1
-HighLevelProgrammingLanguage01
+HighLevelProgrammingLanguage01 Drills
