@@ -198,5 +198,5 @@ int main()
         keep_window_open();
         return 2;
     }
-} // fill the bracket for main function correctly
+} // fill the bracket for main function correctly otherwise compilation error
 //------------------------------------------------------------------------------
