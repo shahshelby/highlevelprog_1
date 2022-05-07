@@ -57,11 +57,11 @@ void S<T>:: operator=(const T& val3)
 int main()
 {
 	// task 3 define int,char,double,string,vector variables
-	S<int> int_S(1);
+	S<int> int_S(5);
 	S<char> char_S('A');
-	S<double> doub_S(1.1);
-	S<string> str_S("String A");
-	S<vector<int>> vec_S ({ 1, 2, 3 });
+	S<double> doub_S(7.4);
+	S<string> str_S("Sometinggg in the way");
+	S<vector<int>> vec_S ({ 5, 7, 11 });
 	/* task 4 read value and print em
 	cout << int_S.val<<endl;
 	cout << char_S.val << endl;
