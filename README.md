@@ -1,10 +1,17 @@
-# highlevelprog_1 <br />
-HighLevelProgrammingLanguage01 Drills <br />
-Drill01 Chapter06 <br />
-Drill02 Chapter07 <br />
-Drill03 Chapter08 <br />
-Drill04 & Drill04part02 Chapter17 <br />
-Drill05 Chapter10 <br />
-Drill06 & Drill06part02 Chapter18 <br />
-Drill07 Chapter19 <br />
+# HighLevelProgrammingLanguage01 Drills
 
+This repository contains a series of drills for learning High-Level Programming Language 1.
+
+## Drills Included
+
+1. Drill01: Chapter 06
+2. Drill02: Chapter 07
+3. Drill03: Chapter 08
+4. Drill04 & Drill04part02: Chapter 17
+5. Drill05: Chapter 10
+6. Drill06 & Drill06part02: Chapter 18
+7. Drill07: Chapter 19
+
+These drills are designed to enhance your understanding of High-Level Programming Language 1.
+
+Happy learning!
